@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+coverage-report/report/
+coverage-report/.cache/
+service/.cache/
+*.test
+*.out
+*.prof
